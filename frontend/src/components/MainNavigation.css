@@ -1,0 +1,10 @@
+.MainNavigation {
+    display: flex;
+    justify-content: center;
+}
+.mainNavLink {
+    color: skyblue;
+    font-size: larger;
+    font-weight: 700;
+
+}
