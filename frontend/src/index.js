@@ -4,12 +4,17 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MainNavigation from './components/MainNavigation';
+import RegistrationForm from './components/RegistrationForm';
+import Footer from './components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <MainNavigation />
+    <RegistrationForm />
     <App />
+
+    <Footer/>
   </React.StrictMode>
 );
 

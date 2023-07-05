@@ -6,5 +6,11 @@
     color: skyblue;
     font-size: larger;
     font-weight: 700;
+    padding: 1%;
+    background-color: black;
+    border: solid;
+    
+    border-color: white;
+    margin: 2%;
 
 }
